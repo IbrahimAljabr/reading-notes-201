@@ -3,4 +3,4 @@
 ## Table of Contents
 
 * [read:01](https://gamer-planet.github.io/reading-notes-201/Read:%2001)
-* [read:02](Read:02.md)
+* [read:02](https://gamer-planet.github.io/reading-notes-201/Read:%2002)
