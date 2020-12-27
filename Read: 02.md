@@ -1,3 +1,5 @@
+## Read:02
+
 # Text and Basic JavaScript
 
 * HTML elements are used to describe the structure of 
