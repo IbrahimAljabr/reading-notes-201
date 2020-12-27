@@ -1,4 +1,8 @@
+## Read:01
+
 # Introduction JS
+
+
 
 * A  script is a series of instructions that the computer can follow in  order to achieve a goal. 
 
