@@ -1,3 +1,5 @@
+## Read:01
+
 # Basic javascript & loops
 
 * A  script is made up of a series of statements. Each statement is like a step in a recipe. 
