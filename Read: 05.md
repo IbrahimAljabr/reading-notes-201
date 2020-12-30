@@ -1,3 +1,5 @@
+## Lab 5
+
 # Color & images
 
 * The img element is used to add images to a         web page.
