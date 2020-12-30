@@ -6,3 +6,4 @@
 * [read:02](https://gamer-planet.github.io/reading-notes-201/Read:%2002)
 * [read:03](https://gamer-planet.github.io/reading-notes-201/Read:%2003)
 * [read:04](https://gamer-planet.github.io/reading-notes-201/Read:%2004)
+* [read:05](https://gamer-planet.github.io/reading-notes-201/Read:%2005)
