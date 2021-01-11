@@ -14,3 +14,4 @@
 * [read:10](https://gamer-planet.github.io/reading-notes-201/Read:%2010)
 * [read:11](https://gamer-planet.github.io/reading-notes-201/Read:%2011)
 * [read:12](https://gamer-planet.github.io/reading-notes-201/Read:%2012)
+* [read:13](https://gamer-planet.github.io/reading-notes-201/Read:%2013)
